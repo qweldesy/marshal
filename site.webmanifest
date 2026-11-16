@@ -1,0 +1,15 @@
+{
+  "name": "Маршал — автосервис в Тольятти",
+  "short_name": "Маршал",
+  "description": "Автосервис и автотехцентр на Приморском бульваре, 55. ТО, двигатель, КПП, ходовая, рулевое.",
+  "lang": "ru",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#071120",
+  "theme_color": "#071120",
+  "icons": [
+    { "src": "img/emblem-64.png", "sizes": "64x64", "type": "image/png" },
+    { "src": "img/emblem-180.png", "sizes": "180x180", "type": "image/png" }
+  ]
+}
